@@ -82,7 +82,7 @@ main { display: block; }
 .hero__cta:active { transform: translateY(0); box-shadow: 0 4px 16px var(--ring); }
 
 /* Projects */
-.projects { padding: 3rem 1rem 5rem; background: var(--bg); }
+.projects { padding: 6rem 1rem 5rem; background: var(--bg); }
 .repos { max-width: 900px; margin: 0 auto; }
 .repo {
   display: block;
