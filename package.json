@@ -1,0 +1,26 @@
+{
+  "name": "prashant-portfolio",
+  "version": "1.0.0",
+  "description": "Prashant's AI & ML Engineer Portfolio",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python3 -m http.server 8000",
+    "start": "python3 -m http.server 8000"
+  },
+  "keywords": [
+    "portfolio",
+    "ai",
+    "ml",
+    "data-science",
+    "engineer"
+  ],
+  "author": "Prashant",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/prashant-portfolio"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
